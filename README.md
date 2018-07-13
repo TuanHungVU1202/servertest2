@@ -1,8 +1,8 @@
 # serverTest2 - WORKING
 #To update gitHub everytime code changes
-  git add .
-  git commit -m "updates done by..."  // Remember to commit everytime it changes to see the different.
-  git push origin <repo_name>
+  1. git add .
+  2. git commit -m "updates done by..."  // Remember to commit everytime it changes to see the different.
+  3. git push origin <repo_name>
   
   
 #To update VM
@@ -14,3 +14,10 @@
 http://35.240.227.109:8000 (WITHOUT "s" in "http")
 
 #To initial a new dir, see https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+#For MongoDB
+  1. Access https://mlab.com/home; Creat Users with Password.
+  2. Use link mongodb://<dbuser>:<dbpassword>@ds139942.mlab.com:39942/mongotest-1 (link should change because of the diffirent accounts)
+  
+  Notes: install mongoDB ver 2.2.33 only to use <function(err,db)> with <db.collection> and so on.
+  See package.json for more details
