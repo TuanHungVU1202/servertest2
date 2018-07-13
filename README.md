@@ -1,4 +1,4 @@
-# serverTest2
+# serverTest2 - WORKING
 #To update gitHub everytime code changes
   git add .
   git commit -m "updates done by..."  // Remember to commit everytime it changes to see the different.
