@@ -17,8 +17,8 @@
     "node-fetch": "^1.7.3",
     "parser": "^0.1.4",
     "path": "^0.12.7",
-    "pug": "^2.0.3"
-    "mongodb": "^2.2.33",
+    "pug": "^2.0.3",
+    "mongodb": "^2.2.33"
   },
   "devDependencies": {}
 }

@@ -50,7 +50,7 @@ var chartCount = 0;
 
 //https://stackoverflow.com/questions/7357734/how-do-i-get-the-time-of-day-in-javascript-node-js
 //Login variables
-var username = "giang";
+var username = "vthung";
 var password = "admin"; 
 var loginFlag = false;
 
