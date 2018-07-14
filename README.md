@@ -24,5 +24,7 @@ http://35.240.227.109:8000 (WITHOUT "s" in "http")
 
 
 #Remember to pull if made any change remotely.
+
 #This folder for establishing server only.
+
 #Camera streaming not working, will update later.
