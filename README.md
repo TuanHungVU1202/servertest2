@@ -21,3 +21,6 @@ http://35.240.227.109:8000 (WITHOUT "s" in "http")
   
   Notes: install mongoDB ver 2.2.33 only to use <function(err,db)> with <db.collection> and so on.
   See package.json for more details
+
+This folder for establishing server only.
+Camera streaming not working, will update later.
