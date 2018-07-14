@@ -1,4 +1,5 @@
 # serverTest2 - WORKING
+#PUSH TO ORIGIN MASTER
 # To update gitHub everytime code changes
   1. git add .
   2. git commit -m "updates done by..."  // Remember to commit everytime it changes to see the different.
