@@ -4,6 +4,10 @@
   2. git commit -m "updates done by..."  // Remember to commit everytime it changes to see the different.
   3. git push origin <repo_name>
   
+# If in anycase that not work, use
+  git remote rm origin
+  
+  to remove origin instead of using another dir like "github, github1" and so on.
   
 #To update VM
   1. Delete directory and its contents by (while at root dir)
