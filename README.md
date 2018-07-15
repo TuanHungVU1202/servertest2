@@ -17,6 +17,8 @@
   1. Delete directory and its contents by (while at root dir)
     sudo rm [servertest2] -r
   2. sudo git clone [link]
+  3. cd to new dir and run app the same way with running app on local machine 
+      <code>node index.js</code>
   
 # To access server after deployment
 http://35.240.227.109:8000 (WITHOUT "s" in "http")
