@@ -1,4 +1,5 @@
 # serverTest2 - WORKING
+#Update last time for serverTest2, continue to testStreamCam2
 #PUSH TO ORIGIN MASTER
 # To update gitHub everytime code changes
   1. git add .
