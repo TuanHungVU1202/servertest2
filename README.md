@@ -30,9 +30,10 @@ http://35.240.227.109:8000 (WITHOUT "s" in "http")
   
   Notes: install mongoDB ver 2.2.33 only to use <function(err,db)> with <db.collection> and so on.
   #Use 
-  <code>npm uninstall mongodb --save
-
-        npm install mongodb@2.2.33 --save</code>
+  <code>
+        npm uninstall mongodb --save
+        npm install mongodb@2.2.33 --save 
+  </code>
 
   See package.json for more details
 
