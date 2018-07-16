@@ -29,9 +29,10 @@ http://35.240.227.109:8000 (WITHOUT "s" in "http")
   2. Use link mongodb://<dbuser>:<dbpassword>@ds139942.mlab.com:39942/mongotest-1 (link should change because of the diffirent accounts)
   
   Notes: install mongoDB ver 2.2.33 only to use <function(err,db)> with <db.collection> and so on.
-  Use <code>npm uninstall mongodb --save
+  #Use 
+  <code>npm uninstall mongodb --save
 
-npm install mongodb@2.2.33 --save</code>
+        npm install mongodb@2.2.33 --save</code>
 
   See package.json for more details
 
